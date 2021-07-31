@@ -1,0 +1,19 @@
+namespace:
+  name: pord
+
+image:
+  tag: 1.17.0
+
+resources:
+  cpu: 70m
+
+cap: mare
+
+service: 
+  port: 80
+
+configmap:
+  data: "version: 1.17.0"
+
+replicaCount: 2
+
