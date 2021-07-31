@@ -9,8 +9,7 @@ resources:
 cap: mijlociu
 
 configmap:
-  data: 
-    version: 1.18.0
+  data: "version: 1.18.0"
 
 replicaCount: 1
 
