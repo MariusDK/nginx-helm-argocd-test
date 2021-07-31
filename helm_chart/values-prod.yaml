@@ -1,5 +1,5 @@
 namespace:
-  name: pord
+  name: prod
 
 image:
   tag: 1.17.0
